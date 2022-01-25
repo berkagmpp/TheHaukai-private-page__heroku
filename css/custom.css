@@ -135,12 +135,11 @@ a:hover, .nav-item a:hover, .nav-fs-5 a:hover{
     color: #d89e68;
 }
 
-a:visited {
+a:visited, .nav-link, li {
     color: #000;
 }
 
 li {
-    color: #000;
     list-style: none;
 }
 

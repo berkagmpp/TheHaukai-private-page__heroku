@@ -15,7 +15,7 @@
                             <a class="nav-link p-3" href="contact.php">CONTACT &amp; HELP</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-3" href="private.html">FOR EMPLOYEES</a>
+                            <a class="nav-link p-3" href="private/private.html">FOR EMPLOYEES</a>
                         </li>
                     </ul>
                 </div>
