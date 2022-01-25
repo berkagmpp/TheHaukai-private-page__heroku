@@ -450,7 +450,6 @@ footer {
 
 
 /*- 5. Index page : content link section -*/
-
 .main-bg-cover {
     background-color: rgba(193, 210, 226, 0.7);
 }
@@ -550,12 +549,16 @@ footer {
     overflow-x: hidden;
     overflow-y: auto;
 }
-
 .form-cover {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 1rem;
 }
 
+/*- Blog page -*/
+#cse {
+    width: 50%; 
+    margin: 0 auto;
+}
 
 
 /**--- 7. Media query ---**/
@@ -581,16 +584,13 @@ footer {
     .navbar-dis {
         display: none;
     }
-
     #btn_menu {
         display: inline;
     }
-
     .section-head h2 {
         text-align: center;
         padding: 2rem;
     }
-
     .whole-text {
         margin: 3rem 0 0 0;
     }
@@ -599,70 +599,56 @@ footer {
     .main-wrapper {
         grid-template-columns: repeat(2, minmax(155px, 330px));
     }
-
     .img-menu, #text-menu, #text-abouthaukai, .img-abouthaukai, .img-location, #text-location, .img-restaurant_1, .img-restaurant_2 {
         width: 100%;
         height: 0;
         padding-top: calc(330/330 * 100%);
     }
-
     .img-menu, #text-abouthaukai, .img-restaurant_1, .img-location {
         grid-column: 1/2;
     }
-
     #text-menu, .img-abouthaukai, .img-restaurant_2, #text-location {
         grid-column: 2/3;
     }
-
     .img-cover h4 {
         font-size: 1.6em;
     }
-}
 
-@media screen and (max-width: 767px) {
-    /*- 767: sm-*/
-    /*- Common content -*/
-
-
-
-    /*- Index page : content link section -*/
+    /**--- 6. Adjustment other pages ---**/
+    /*- Blog page -*/
+    #cse {
+        width: 100%; 
+    }
 }
 
 @media screen and (max-width: 576px) {
-
     /*- 576: xs-*/
+
     /*- Common content -*/
     .top-page-banner {
         height: 50vh;
         max-height: 200px;
     }
-
     .tb-head {
         height: auto;
     }
-
     .top-banner-head {
         position: static;
         padding: 14.5rem 0 0 0;
     }
-
     .top-banner-head h1 {
         letter-spacing: normal;
         font-size: 2rem;
     }
-
     .whole-text {
         margin: 6rem 2% 3% 2%;
     }
-
     .sub-menu-container {
         margin-top: 100px;
     }
-
     .head-cover, .text-cover {
         padding: 0;
     }
-
     .container-px-sm {
         padding-left: 3% !important;
         padding-right: 3% !important;
