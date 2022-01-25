@@ -48,14 +48,14 @@
                             <div class="img-menu" role="img" aria-label="A lamb and salmon dish for menu page"></div>
                             <div id="text-menu" aria-labelledby="menus-page_link">
                                 <div class="img-cover">
-                                    <a href="menu.html"><h4 id="menus-page_link">OUR<br>MENUS</h4></a>
+                                    <a href="menu.php"><h4 id="menus-page_link">OUR<br>MENUS</h4></a>
                                 </div>
                             </div>
                         </div>
                         <div class="main-wrapper" aria-label="Main to about page link">
                             <div id="text-abouthaukai" aria-labelledby="about-page_link">
                                 <div class="img-cover">
-                                    <a href="about_us.html"><h4 id="about-page_link">ABOUT<br>HAUKAI</h4></a>
+                                    <a href="about_us.php"><h4 id="about-page_link">ABOUT<br>HAUKAI</h4></a>
                                 </div>
                             </div>
                             <div class="img-abouthaukai" role="img" aria-label="Table setting for about us page"></div>
@@ -68,7 +68,7 @@
                             <div class="img-location"></div>
                             <div id="text-location" aria-labelledby="location-page_link">
                                 <div class="img-cover" role="img" aria-label="Sunset for location page">
-                                    <a href="contact.html"><h4 id="location-page_link">LOCATION</h4></a>
+                                    <a href="contact.php#section-two"><h4 id="location-page_link">LOCATION</h4></a>
                                 </div>
                             </div>
                         </div>
@@ -95,7 +95,7 @@
                                 Semper feugia nibh sed pulvinar proin gravida. Vel orci porta non pulvinar neque laoreet suspendisse.
                             </p>
                             <div class="nav-item text-end">
-                                <a class="nav-link-dark p-0" href="#">Read More ></a>
+                                <a class="nav-link-dark p-0" href="blog.php">Read More ></a>
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                                 Semper feugia nibh sed pulvinar proin gravida. Vel orci porta non pulvinar neque laoreet suspendisse.
                             </p>
                             <div class="nav-item text-end">
-                                <a class="nav-link-dark p-0" href="#">Read More ></a>
+                                <a class="nav-link-dark p-0" href="blog.php">Read More ></a>
                             </div>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                                 Semper feugia nibh sed pulvinar proin gravida. Vel orci porta non pulvinar neque laoreet suspendisse.
                             </p>
                             <div class="nav-item text-end">
-                                <a class="nav-link-dark p-0" href="#">Read More ></a>
+                                <a class="nav-link-dark p-0" href="blog.php">Read More ></a>
                             </div>
                         </div>
                     </div>
