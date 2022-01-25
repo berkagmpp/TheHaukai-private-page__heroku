@@ -1,7 +1,3 @@
-<?php
-    include "header.html";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,6 +14,9 @@
 </head>
 
 <body>
+<?php
+    include "header.html";
+?>
 
     <!-- Main -->
     <main class="row">
