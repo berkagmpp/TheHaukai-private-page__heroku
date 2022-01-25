@@ -12,7 +12,7 @@
     <!-- custom css-->
     <link rel="stylesheet" href="css/custom.css">
     <!-- Google Programmable Search -->
-    <link href="https://cse.google.com/cse.js?cx=cfc94dceefe4eb426" rel="stylesheet">
+    <script async src="https://cse.google.com/cse.js?cx=cfc94dceefe4eb426"></script>
 </head>
 
 <body>
