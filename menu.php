@@ -331,7 +331,7 @@
                             </div>
                             <!-- book a table button -->
                             <div class="col-12 pb-4 text-center" aria-label="Book a table button">
-                                <a href="booking_buy.html" id="btn_book" 
+                                <a href="booking_buy.php" id="btn_book" 
                                     class="btn btn-outline-dark fs-5" role="button">BOOK A TABLE</a>
                             </div>
                         </div>  

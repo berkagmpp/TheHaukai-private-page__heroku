@@ -6,16 +6,16 @@
                 <div class="col-lg-4 col-md-12 py-5 colFoot" aria-label="Footer links">
                     <ul class="nav navbar-nav col-subnav">
                         <li class="nav-item">
-                            <a class="nav-link p-3" href="privacy_policy.html">PRIVACY POLICY</a>
+                            <a class="nav-link p-3" href="privacy_policy.php">PRIVACY POLICY</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link p-3" href="#">TERMS &amp; CONDITIONS</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-3" href="contact.html">CONTACT &amp; HELP</a>
+                            <a class="nav-link p-3" href="contact.php">CONTACT &amp; HELP</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-3" href="#">FOR EMPLOYEES</a>
+                            <a class="nav-link p-3" href="private.html">FOR EMPLOYEES</a>
                         </li>
                     </ul>
                 </div>

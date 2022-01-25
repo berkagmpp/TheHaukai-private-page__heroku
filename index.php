@@ -95,7 +95,7 @@
                                 Semper feugia nibh sed pulvinar proin gravida. Vel orci porta non pulvinar neque laoreet suspendisse.
                             </p>
                             <div class="nav-item text-end">
-                                <a class="nav-link-dark p-0" href="blog.php">Read More ></a>
+                                <a class="nav-link-dark p-0" href="blog.php#section-one">Read More ></a>
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                                 Semper feugia nibh sed pulvinar proin gravida. Vel orci porta non pulvinar neque laoreet suspendisse.
                             </p>
                             <div class="nav-item text-end">
-                                <a class="nav-link-dark p-0" href="blog.php">Read More ></a>
+                                <a class="nav-link-dark p-0" href="blog.php#section-one">Read More ></a>
                             </div>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                                 Semper feugia nibh sed pulvinar proin gravida. Vel orci porta non pulvinar neque laoreet suspendisse.
                             </p>
                             <div class="nav-item text-end">
-                                <a class="nav-link-dark p-0" href="blog.php">Read More ></a>
+                                <a class="nav-link-dark p-0" href="blog.php#section-one">Read More ></a>
                             </div>
                         </div>
                     </div>

@@ -4,7 +4,7 @@
         <div class="container">
             <!-- nav static space -->
             <div id="navbar-static">
-                <a href="index.html" class="navbar-brant mb-0 h1">
+                <a href="index.php" class="navbar-brant mb-0 h1">
                     <img class="d-inline-block align-center"
                         src="img/logo_109x38.png"
                         width="109" height="38">
@@ -19,22 +19,22 @@
             <div class="navbar-dis" id="navbars-dis">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a href="index.html" class="nav-link active">HOME</a>
+                        <a href="index.php" class="nav-link active">HOME</a>
                     </li>
                     <li class="nav-item active">
-                        <a href="about_us.html" class="nav-link active">ABOUT US</a>
+                        <a href="about_us.php" class="nav-link active">ABOUT US</a>
                     </li>
                     <li class="nav-item active">
-                        <a href="contact.html" class="nav-link active">CONTACT</a>
+                        <a href="contact.php" class="nav-link active">CONTACT</a>
                     </li>
                     <li class="nav-item active">
-                        <a href="blog.html" class="nav-link active">BLOG</a>
+                        <a href="blog.php" class="nav-link active">BLOG</a>
                     </li>
                     <li class="nav-item active">
-                        <a href="menu.html" class="nav-link active">MENU</a>
+                        <a href="menu.php" class="nav-link active">MENU</a>
                     </li>
                     <li class="nav-item active" id="booking-po">
-                        <a href="booking_buy.html" class="booking-box">BOOKING &amp; BUY</a>
+                        <a href="booking_buy.php" class="booking-box">BOOKING &amp; BUY</a>
                     </li>
                 </ul>
             </div>
@@ -45,22 +45,22 @@
                         <input type="image" src="img/times.png" alt="Hamburger button">
                     </button>
                     <li class="nav-item active">
-                        <a href="index.html" class="nav-link active">HOME</a>
+                        <a href="index.php" class="nav-link active">HOME</a>
                     </li>
                     <li class="nav-item active">
-                        <a href="about_us.html" class="nav-link active">ABOUT US</a>
+                        <a href="about_us.php" class="nav-link active">ABOUT US</a>
                     </li>
                     <li class="nav-item active">
-                        <a href="contact.html" class="nav-link active">CONTACT</a>
+                        <a href="contact.php" class="nav-link active">CONTACT</a>
                     </li>
                     <li class="nav-item active">
-                        <a href="blog.html" class="nav-link active">BLOG</a>
+                        <a href="blog.php" class="nav-link active">BLOG</a>
                     </li>
                     <li class="nav-item active">
-                        <a href="menu.html" class="nav-link active">MENU</a>
+                        <a href="menu.php" class="nav-link active">MENU</a>
                     </li>
                     <li class="nav-item active" id="booking-bo">
-                        <a href="booking_buy.html" class="booking-box">BOOKING &amp; BUY</a>
+                        <a href="booking_buy.php" class="booking-box">BOOKING &amp; BUY</a>
                     </li>
                 </ul>
             </div>
