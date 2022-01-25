@@ -1,5 +1,0 @@
-https://kerikeri-haukai.herokuapp.com/index.php
-https://kerikeri-haukai.herokuapp.com/blog.php
-https://kerikeri-haukai.herokuapp.com/menu.php
-https://kerikeri-haukai.herokuapp.com/booking_buy.php
-https://kerikeri-haukai.herokuapp.com/privacy_policy.php
