@@ -16,7 +16,7 @@
 <body>
 
     <?php
-        include "header.php";
+        include "header.html";
     ?>
 
     <!-- Main -->
@@ -142,5 +142,5 @@
     <!-- End main -->
 
 <?php
-    include "footer.php";
+    include "footer.html";
 ?>

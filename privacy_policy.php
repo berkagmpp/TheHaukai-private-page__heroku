@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    
+
     <?php
         include "header.html";
     ?>
@@ -52,5 +52,5 @@
     <!-- End main -->
     
 <?php
-    include "footer.php";
+    include "footer.html";
 ?>
