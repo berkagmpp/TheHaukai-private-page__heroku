@@ -1,4 +1,4 @@
-<?php include_once("index.html"); ?>
+<?php include_once("header.html"); ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -29,6 +29,8 @@
         <a href="index.html" id="btn_book" 
            class="btn btn-outline-dark fs-5" role="button">BACK TO MAIN</a>
     </div>
+
+    <?php include_once("footer.html"); ?>
 
   </body>
 </html>
