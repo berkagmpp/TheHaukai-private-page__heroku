@@ -25,7 +25,7 @@
         </div>
         <!-- button for connecting to the main page -->
         <div class="col-12 pb-4 text-center" aria-label="Close button">
-            <a href="javascript:close_window();" class="btn btn-outline-dark fs-5" role="button">CLOSE</a>
+            <a href="javascript:close();" class="btn btn-outline-dark fs-5" role="button">CLOSE</a>
         </div>
     </div>
 </body>
