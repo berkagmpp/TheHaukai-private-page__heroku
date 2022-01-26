@@ -1,4 +1,4 @@
-<?php include_once("header.html"); ?>
+<?php ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -16,21 +16,20 @@
 </head>
 
 <body>
-    <p>This page is for The Haukai's employees.</p>
+    <div class="row py-5 whole-text vh-60">
+        <p class="fs-103">This page is for The Haukai's employees.</p>
 
-    <!-- button for connecting to the authentication page for staff -->
-    <div class="col-12 pb-4 text-center" aria-label="Staff login button">
-        <a href="private/private.html" id="btn_book" 
-           class="btn btn-outline-dark fs-5" role="button">STAFF LOGIN</a>
+        <!-- button for connecting to the authentication page for staff -->
+        <div class="col-12 pb-4 text-center" aria-label="Staff login button">
+            <a href="https://kerikeri-haukai.herokuapp.com/private/private.html" id="btn_book" 
+            class="btn btn-outline-danger fs-5" role="button">STAFF LOGIN</a>
+        </div>
+
+        <!-- button for connecting to the main page -->
+        <div class="col-12 pb-4 text-center" aria-label="Back to the main page button">
+            <a href="index.html" id="btn_book" 
+            class="btn btn-outline-dark fs-5" role="button">BACK TO MAIN</a>
+        </div>
     </div>
-
-    <!-- button for connecting to the main page -->
-    <div class="col-12 pb-4 text-center" aria-label="Back to the main page button">
-        <a href="index.html" id="btn_book" 
-           class="btn btn-outline-dark fs-5" role="button">BACK TO MAIN</a>
-    </div>
-
-    <?php include_once("footer.html"); ?>
-
-  </body>
+</body>
 </html>
