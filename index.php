@@ -18,6 +18,8 @@
 <body>
     <div class="row py-5 whole-text vh-60">
         <p class="fs-103">This page is for The Haukai's employees.</p>
+        <p class="fs-103">Username: staff</p>
+        <p class="fs-103">Password: password</p>
         <!-- button for connecting to the authentication page for staff -->
         <div class="col-12 pb-4 text-center" aria-label="Staff login button">
             <a href="/private/private.html" class="btn btn-outline-danger fs-5" 
